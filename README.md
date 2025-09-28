@@ -133,9 +133,9 @@
 ## 🚀 Live Demo
 
 ### 🌐 **Online Demo**
-Visit our live demo: [Vahan Bazar Demo](https://vahan-bazar-vercel.vercel.app)
+Visit our live demo: [Vahan Bazar Demo](https://vahan-bazar-vb.vercel.app/)
 
-> **🚀 Deployed on Vercel!** Your demo is live and automatically updates from GitHub.
+> **🚀 Successfully deployed on Vercel!** Your demo is live and automatically updates from GitHub.
 
 ### 🔑 **Demo Credentials**
 ```
