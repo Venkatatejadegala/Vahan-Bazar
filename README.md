@@ -133,7 +133,9 @@
 ## 🚀 Live Demo
 
 ### 🌐 **Online Demo**
-Visit our live demo: [Vahan Bazar Demo](https://your-demo-url.com)
+Visit our live demo: [Vahan Bazar Demo](https://your-netlify-url.netlify.app)
+
+> **✅ Successfully deployed!** Replace `your-netlify-url` with your actual Netlify URL.
 
 ### 🔑 **Demo Credentials**
 ```
@@ -174,7 +176,7 @@ Password: user123
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/vahan-bazar.git
+   git clone https://github.com/Venkatatejadegala/vahan-bazar.git
    cd vahan-bazar
    ```
 
@@ -225,6 +227,26 @@ npm start
 ```
 
 The demo runs on **http://localhost:3000** with mock data and no database required!
+
+### **Deploy Live Demo (5 Minutes)**
+
+To create a live demo URL:
+
+1. **Build the project** (already done):
+   ```bash
+   cd frontend
+   npm run build
+   ```
+
+2. **Deploy to Netlify** (Free):
+   - Go to [netlify.com](https://netlify.com)
+   - Sign up with GitHub
+   - Drag & drop the `frontend/build` folder
+   - Get instant URL like `https://your-app-name.netlify.app`
+
+3. **Update README** with your new URL:
+   - Replace `https://vahan-bazar-demo.netlify.app` with your actual URL
+   - Commit and push changes
 
 ---
 
@@ -506,7 +528,7 @@ DELETE /api/admin/bikes/:id    # Delete bike
 
 1. **Prepare for deployment**
    ```bash
-   cd backend
+cd backend
    # Ensure all dependencies are in package.json
    ```
 
@@ -611,7 +633,7 @@ SOFTWARE.
 - Accessibility guidelines
 
 ### **Contributors**
-- **Your Name** - Project Lead & Full-Stack Developer
+- **Venkatatejadegala** - Project Lead & Full-Stack Developer
 - **Contributors** - See [CONTRIBUTORS.md](CONTRIBUTORS.md)
 
 ---
@@ -622,7 +644,7 @@ SOFTWARE.
 - 📧 Email: support@vahanbazar.com
 - 💬 Discord: [Join our community](https://discord.gg/vahanbazar)
 - 📖 Documentation: [docs.vahanbazar.com](https://docs.vahanbazar.com)
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/vahan-bazar/issues)
+- 🐛 Issues: [GitHub Issues](https://github.com/Venkatatejadegala/vahan-bazar/issues)
 
 ### **Stay Updated**
 - ⭐ Star this repository
@@ -636,10 +658,10 @@ SOFTWARE.
 
 **⭐ If you found this project helpful, please give it a star! ⭐**
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/vahan-bazar?style=social)](https://github.com/yourusername/vahan-bazar/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/vahan-bazar?style=social)](https://github.com/yourusername/vahan-bazar/network)
-[![GitHub watchers](https://img.shields.io/github/watchers/yourusername/vahan-bazar?style=social)](https://github.com/yourusername/vahan-bazar/watchers)
+[![GitHub stars](https://img.shields.io/github/stars/Venkatatejadegala/vahan-bazar?style=social)](https://github.com/Venkatatejadegala/vahan-bazar/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Venkatatejadegala/vahan-bazar?style=social)](https://github.com/Venkatatejadegala/vahan-bazar/network)
+[![GitHub watchers](https://img.shields.io/github/watchers/Venkatatejadegala/vahan-bazar?style=social)](https://github.com/Venkatatejadegala/vahan-bazar/watchers)
 
-**Made with ❤️ by [Your Name](https://github.com/yourusername)**
+**Made with ❤️ by [Venkatatejadegala](https://github.com/Venkatatejadegala)**
 
 </div>
