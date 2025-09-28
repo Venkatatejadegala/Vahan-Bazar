@@ -133,9 +133,9 @@
 ## 🚀 Live Demo
 
 ### 🌐 **Online Demo**
-Visit our live demo: [Vahan Bazar Demo](https://your-netlify-url.netlify.app)
+Visit our live demo: [Vahan Bazar Demo](https://vahan-bazar-vercel.vercel.app)
 
-> **✅ Successfully deployed!** Replace `your-netlify-url` with your actual Netlify URL.
+> **🚀 Deployed on Vercel!** Your demo is live and automatically updates from GitHub.
 
 ### 🔑 **Demo Credentials**
 ```
@@ -238,14 +238,20 @@ To create a live demo URL:
    npm run build
    ```
 
-2. **Deploy to Netlify** (Free):
-   - Go to [netlify.com](https://netlify.com)
+2. **Deploy to Vercel** (Recommended):
+   - Go to [vercel.com](https://vercel.com)
    - Sign up with GitHub
-   - Drag & drop the `frontend/build` folder
-   - Get instant URL like `https://your-app-name.netlify.app`
+   - Import your repository: `Venkatatejadegala/vahan-bazar`
+   - Set Root Directory: `frontend`
+   - Deploy automatically
 
-3. **Update README** with your new URL:
-   - Replace `https://vahan-bazar-demo.netlify.app` with your actual URL
+3. **Alternative: Netlify**:
+   - Go to [netlify.com](https://netlify.com)
+   - Drag & drop the `frontend/build` folder
+   - Get instant URL
+
+4. **Update README** with your new URL:
+   - Replace the demo URL with your actual deployment URL
    - Commit and push changes
 
 ---
