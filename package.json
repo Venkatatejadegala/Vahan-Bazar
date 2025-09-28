@@ -14,6 +14,7 @@
     "start-backend": "cd backend && npm run dev",
     "start-frontend": "cd frontend && npm start",
     "demo": "cd frontend && npm start",
+    "build": "cd frontend && npm install && npm run build",
     "db-reset": "cd database && node manage.js reset",
     "db-seed": "cd database && node manage.js seed",
     "db-clear": "cd database && node manage.js clear",
