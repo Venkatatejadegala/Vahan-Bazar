@@ -22,7 +22,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": ["bikes", "scooters", "two-wheelers", "marketplace", "react", "nodejs"],
-  "author": "",
+  "author": "Venkatatejadegala <23pa1a4227@vishnu.edu.in>",
   "license": "MIT",
   "devDependencies": {
     "concurrently": "^7.6.0"

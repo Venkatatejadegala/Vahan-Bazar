@@ -1,6 +1,7 @@
 {
   "name": "vahan-bazar-backend",
   "version": "1.0.0",
+  "author": "Venkatatejadegala <23pa1a4227@vishnu.edu.in>",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
