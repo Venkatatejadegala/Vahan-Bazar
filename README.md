@@ -10,17 +10,17 @@
 [![Tailwind CSS](https://img.shields.io/badge/Styling-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css)](https://tailwindcss.com/)
 [![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000000?style=flat-square&logo=vercel)](https://vercel.com/)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Online-brightgreen?style=flat-square)](https://calqulatevt.vercel.app/login)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Online-brightgreen?style=flat-square)](https://vahan-bazar-vb.vercel.app/)
 
 **A comprehensive full-stack web application for buying, selling, and comparing two-wheelers with advanced features like EMI calculators, test ride bookings, and admin dashboard.**
 
-[![Live Demo](https://img.shields.io/badge/🚀%20Try%20Live%20Demo-Online-brightgreen?style=for-the-badge)](https://calqulatevt.vercel.app/login)
+[![Live Demo](https://img.shields.io/badge/🚀%20Try%20Live%20Demo-Online-brightgreen?style=for-the-badge)](https://vahan-bazar-vb.vercel.app/)
 
 ## ⚡ Quick Start
 
 **🎯 Want to see it in action right now?**
 
-1. **🌐 [Visit Live Demo](https://calqulatevt.vercel.app/login)** - No setup required!
+1. **🌐 [Visit Live Demo](https://vahan-bazar-vb.vercel.app/)** - No setup required!
 2. **🔑 Use Demo Credentials**:
    - **User**: `user@demo.com` / `user123`
    - **Admin**: `admin@demo.com` / `admin123`
@@ -151,14 +151,9 @@
 ## 🚀 Live Demo
 
 ### 🌐 **Online Demo**
-🎯 **Live Demo**: [Vahan Bazar - Two-Wheeler Marketplace](https://calqulatevt.vercel.app/login)
+Visit our live demo: [Vahan Bazar Demo](https://vahan-bazar-vb.vercel.app/)
 
 > **🚀 Successfully deployed on Vercel!** Your demo is live and automatically updates from GitHub.
-
-**🔗 Quick Access**:
-- **Homepage**: [https://calqulatevt.vercel.app/](https://calqulatevt.vercel.app/)
-- **Login Page**: [https://calqulatevt.vercel.app/login](https://calqulatevt.vercel.app/login)
-- **Signup Page**: [https://calqulatevt.vercel.app/signup](https://calqulatevt.vercel.app/signup)
 
 ### 🔑 **Demo Credentials**
 ```
@@ -356,7 +351,7 @@ EMAIL_PASS=your-app-password
 ### **👤 For Users**
 
 1. **🏠 Browse Bikes**
-   - Visit the [live demo homepage](https://calqulatevt.vercel.app/) to see featured bikes
+   - Visit the [live demo homepage](https://vahan-bazar-vb.vercel.app/) to see featured bikes
    - Use advanced filters to narrow down your search
    - Click on any bike for detailed information and specifications
 
@@ -569,7 +564,7 @@ DELETE /api/admin/bikes/:id    # Delete bike
 
 ### **✅ Already Deployed!**
 
-**🌐 Live Demo**: [https://calqulatevt.vercel.app/login](https://calqulatevt.vercel.app/login)
+**🌐 Live Demo**: [https://vahan-bazar-vb.vercel.app/](https://vahan-bazar-vb.vercel.app/)
 
 > **🎉 Successfully deployed on Vercel with automatic GitHub integration!**
 
@@ -586,7 +581,7 @@ DELETE /api/admin/bikes/:id    # Delete bike
    npm install -g vercel
    vercel --prod
    ```
-   - ✅ **Current Status**: Live at [calqulatevt.vercel.app](https://calqulatevt.vercel.app/login)
+   - ✅ **Current Status**: Live at [vahan-bazar-vb.vercel.app](https://vahan-bazar-vb.vercel.app/)
    - ✅ **Auto-deployment**: Updates automatically from GitHub
    - ✅ **Custom Domain**: Ready for custom domain setup
 
@@ -712,7 +707,7 @@ SOFTWARE.
 ## 📞 Support & Contact
 
 ### **Get Help**
-- 🌐 **Live Demo**: [https://calqulatevt.vercel.app/login](https://calqulatevt.vercel.app/login)
+- 🌐 **Live Demo**: [https://vahan-bazar-vb.vercel.app/](https://vahan-bazar-vb.vercel.app/)
 - 📧 **Email**: support@vahanbazar.com
 - 💬 **Discord**: [Join our community](https://discord.gg/vahanbazar)
 - 📖 **Documentation**: [docs.vahanbazar.com](https://docs.vahanbazar.com)
@@ -724,7 +719,7 @@ SOFTWARE.
 - 👀 **Watch for updates** - Get notified of new features
 - 🍴 **Fork for your own use** - Customize for your needs
 - 📢 **Share with others** - Spread the word about Vahan Bazar
-- 🚀 **Try the Live Demo** - [https://calqulatevt.vercel.app/login](https://calqulatevt.vercel.app/login)
+- 🚀 **Try the Live Demo** - [https://vahan-bazar-vb.vercel.app/](https://vahan-bazar-vb.vercel.app/)
 
 ---
 
@@ -734,7 +729,7 @@ SOFTWARE.
 
 ### 🚀 **Try the Live Demo Now!**
 
-[![Live Demo Button](https://img.shields.io/badge/🚀%20Try%20Live%20Demo-https://calqulatevt.vercel.app/login-brightgreen?style=for-the-badge&logo=vercel)](https://calqulatevt.vercel.app/login)
+[![Live Demo Button](https://img.shields.io/badge/🚀%20Try%20Live%20Demo-https://vahan-bazar-vb.vercel.app/-brightgreen?style=for-the-badge&logo=vercel)](https://vahan-bazar-vb.vercel.app/)
 
 **🔑 Demo Credentials:**
 - **User Account**: `user@demo.com` / `user123`
