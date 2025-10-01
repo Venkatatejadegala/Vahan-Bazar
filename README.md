@@ -8,8 +8,26 @@
 [![Node.js](https://img.shields.io/badge/Node.js-Express-green?style=flat-square&logo=node.js)](https://nodejs.org/)
 [![MySQL](https://img.shields.io/badge/Database-MySQL-orange?style=flat-square&logo=mysql)](https://mysql.com/)
 [![Tailwind CSS](https://img.shields.io/badge/Styling-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css)](https://tailwindcss.com/)
+[![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000000?style=flat-square&logo=vercel)](https://vercel.com/)
+[![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Online-brightgreen?style=flat-square)](https://calqulatevt.vercel.app/login)
 
 **A comprehensive full-stack web application for buying, selling, and comparing two-wheelers with advanced features like EMI calculators, test ride bookings, and admin dashboard.**
+
+[![Live Demo](https://img.shields.io/badge/🚀%20Try%20Live%20Demo-Online-brightgreen?style=for-the-badge)](https://calqulatevt.vercel.app/login)
+
+## ⚡ Quick Start
+
+**🎯 Want to see it in action right now?**
+
+1. **🌐 [Visit Live Demo](https://calqulatevt.vercel.app/login)** - No setup required!
+2. **🔑 Use Demo Credentials**:
+   - **User**: `user@demo.com` / `user123`
+   - **Admin**: `admin@demo.com` / `admin123`
+3. **🏍️ Explore Features**: Browse 28+ bikes, use calculators, try admin panel
+4. **📱 Test on Mobile**: Fully responsive design
+
+> **💡 Pro Tip**: Try both user and admin accounts to experience all features!
 
 [🚀 Live Demo](#-live-demo) • [📖 Documentation](#-documentation) • [🛠️ Installation](#-installation) • [🎯 Features](#-features) • [📱 Screenshots](#-screenshots)
 
@@ -133,9 +151,14 @@
 ## 🚀 Live Demo
 
 ### 🌐 **Online Demo**
-Visit our live demo: [Vahan Bazar Demo](https://vahan-bazar-vb.vercel.app/)
+🎯 **Live Demo**: [Vahan Bazar - Two-Wheeler Marketplace](https://calqulatevt.vercel.app/login)
 
 > **🚀 Successfully deployed on Vercel!** Your demo is live and automatically updates from GitHub.
+
+**🔗 Quick Access**:
+- **Homepage**: [https://calqulatevt.vercel.app/](https://calqulatevt.vercel.app/)
+- **Login Page**: [https://calqulatevt.vercel.app/login](https://calqulatevt.vercel.app/login)
+- **Signup Page**: [https://calqulatevt.vercel.app/signup](https://calqulatevt.vercel.app/signup)
 
 ### 🔑 **Demo Credentials**
 ```
@@ -154,13 +177,35 @@ Password: user123
 - **6 Upcoming Bikes** (no images as per design)
 - **Total: 28 Bikes** across all categories
 
-### 📱 **Demo Features**
-- ✅ Complete bike browsing and filtering
-- ✅ User authentication and profiles
-- ✅ Admin dashboard functionality
-- ✅ EMI and fuel cost calculators
-- ✅ Test ride booking system
-- ✅ Responsive design on all devices
+### 🎯 **What You Can Do in the Demo**
+- ✅ **Browse & Filter**: Explore 28+ bikes with advanced filtering
+- ✅ **User Authentication**: Sign up, login, and manage profiles
+- ✅ **Admin Dashboard**: Full admin panel with bike management
+- ✅ **Financial Tools**: EMI and fuel cost calculators
+- ✅ **Test Ride Booking**: Schedule showroom visits
+- ✅ **Bike Comparison**: Side-by-side comparison tool
+- ✅ **Responsive Design**: Works perfectly on all devices
+- ✅ **Real Data**: Authentic bike specifications and images
+
+### 🚀 **Getting Started with the Demo**
+
+1. **Visit the Live Demo**: [https://calqulatevt.vercel.app/login](https://calqulatevt.vercel.app/login)
+2. **Create an Account** or use demo credentials below
+3. **Explore Features**: Browse bikes, use calculators, try admin panel
+4. **Test on Mobile**: Responsive design works on all devices
+
+### 🔑 **Demo Credentials**
+```
+Admin Account:
+Email: admin@demo.com
+Password: admin123
+
+User Account:
+Email: user@demo.com
+Password: user123
+```
+
+> **💡 Pro Tip**: Try both user and admin accounts to experience all features!
 
 ---
 
@@ -308,67 +353,78 @@ EMAIL_PASS=your-app-password
 
 ## 🎮 Usage
 
-### **For Users**
+### **👤 For Users**
 
-1. **Browse Bikes**
-   - Visit the homepage to see featured bikes
-   - Use filters to narrow down your search
-   - Click on any bike for detailed information
+1. **🏠 Browse Bikes**
+   - Visit the [live demo homepage](https://calqulatevt.vercel.app/) to see featured bikes
+   - Use advanced filters to narrow down your search
+   - Click on any bike for detailed information and specifications
 
-2. **Create Account**
+2. **📝 Create Account**
    - Click "Sign Up" to create a new account
-   - Verify your email address
-   - Complete your profile
+   - Use demo credentials for quick access: `user@demo.com` / `user123`
+   - Complete your profile and preferences
 
-3. **Use Tools**
-   - **EMI Calculator**: Calculate monthly payments
-   - **Fuel Calculator**: Estimate trip costs
-   - **Compare Bikes**: Side-by-side comparison
-   - **Book Test Ride**: Schedule showroom visits
+3. **🛠️ Use Tools**
+   - **💰 EMI Calculator**: Calculate monthly payments for bike loans
+   - **⛽ Fuel Calculator**: Estimate trip costs and fuel efficiency
+   - **⚖️ Compare Bikes**: Side-by-side comparison of up to 2 bikes
+   - **📅 Book Test Ride**: Schedule showroom visits
 
-4. **Manage Favorites**
+4. **❤️ Manage Favorites**
    - Add bikes to your favorites list
    - Access from your profile dashboard
    - Get price alerts for saved bikes
+   - Track your wishlist and preferences
 
-### **For Admins**
+### **👨‍💼 For Admins**
 
-1. **Access Admin Dashboard**
-   - Login with admin credentials
-   - Navigate to Admin Dashboard
+1. **🔐 Access Admin Dashboard**
+   - Login with admin credentials: `admin@demo.com` / `admin123`
+   - Navigate to the comprehensive Admin Dashboard
+   - View system analytics and user statistics
 
-2. **Manage Content**
-   - Add new bike listings
-   - Update existing information
-   - Manage user accounts
-   - View analytics and reports
+2. **📊 Manage Content**
+   - **🏍️ Add New Bikes**: Upload bike listings with images and specifications
+   - **✏️ Update Information**: Edit existing bike details and pricing
+   - **👥 User Management**: Monitor and manage user accounts
+   - **📈 Analytics**: View detailed reports and user engagement metrics
 
-3. **Monitor System**
-   - Check user registrations
-   - Review test ride bookings
-   - Monitor system performance
+3. **🔍 Monitor System**
+   - **📊 User Analytics**: Track registrations and user activity
+   - **📅 Test Ride Bookings**: Review and manage showroom appointments
+   - **⚡ Performance**: Monitor system performance and uptime
+   - **🛡️ Security**: Manage user roles and permissions
 
 ---
 
 ## 📱 Screenshots
 
-### **Homepage**
-![Homepage](https://via.placeholder.com/800x400/4F46E5/FFFFFF?text=Homepage+with+Featured+Bikes)
+### **🏠 Homepage**
+![Homepage](https://via.placeholder.com/800x400/4F46E5/FFFFFF?text=🏠+Homepage+with+Featured+Bikes)
+*Modern homepage showcasing featured bikes with intuitive navigation*
 
-### **Bike Listings**
-![Bike Listings](https://via.placeholder.com/800x400/059669/FFFFFF?text=Bike+Listings+with+Filters)
+### **🏍️ Bike Listings**
+![Bike Listings](https://via.placeholder.com/800x400/059669/FFFFFF?text=🏍️+Bike+Listings+with+Advanced+Filters)
+*Comprehensive bike listings with powerful filtering options*
 
-### **Bike Details**
-![Bike Details](https://via.placeholder.com/800x400/DC2626/FFFFFF?text=Detailed+Bike+Information)
+### **📋 Bike Details**
+![Bike Details](https://via.placeholder.com/800x400/DC2626/FFFFFF?text=📋+Detailed+Bike+Information+%26+Specs)
+*Detailed bike information with specifications and real images*
 
-### **Comparison Tool**
-![Comparison](https://via.placeholder.com/800x400/7C3AED/FFFFFF?text=Side-by-Side+Bike+Comparison)
+### **⚖️ Comparison Tool**
+![Comparison](https://via.placeholder.com/800x400/7C3AED/FFFFFF?text=⚖️+Side-by-Side+Bike+Comparison)
+*Powerful comparison tool for making informed decisions*
 
-### **Admin Dashboard**
-![Admin Dashboard](https://via.placeholder.com/800x400/F59E0B/FFFFFF?text=Admin+Dashboard+with+Analytics)
+### **👨‍💼 Admin Dashboard**
+![Admin Dashboard](https://via.placeholder.com/800x400/F59E0B/FFFFFF?text=👨‍💼+Admin+Dashboard+with+Analytics)
+*Comprehensive admin panel for managing bikes and users*
 
-### **Mobile View**
-![Mobile View](https://via.placeholder.com/400x800/10B981/FFFFFF?text=Responsive+Mobile+Design)
+### **📱 Mobile View**
+![Mobile View](https://via.placeholder.com/400x800/10B981/FFFFFF?text=📱+Responsive+Mobile+Design)
+*Fully responsive design optimized for mobile devices*
+
+> **🎯 Want to see it in action?** [Try the Live Demo](https://calqulatevt.vercel.app/login) now!
 
 ---
 
@@ -511,6 +567,12 @@ DELETE /api/admin/bikes/:id    # Delete bike
 
 ## 🚀 Deployment
 
+### **✅ Already Deployed!**
+
+**🌐 Live Demo**: [https://calqulatevt.vercel.app/login](https://calqulatevt.vercel.app/login)
+
+> **🎉 Successfully deployed on Vercel with automatic GitHub integration!**
+
 ### **Frontend Deployment (Netlify/Vercel)**
 
 1. **Build the application**
@@ -519,16 +581,19 @@ DELETE /api/admin/bikes/:id    # Delete bike
    npm run build
    ```
 
-2. **Deploy to Netlify**
-   - Connect your GitHub repository
-   - Set build command: `npm run build`
-   - Set publish directory: `build`
-
-3. **Deploy to Vercel**
+2. **Deploy to Vercel** (Recommended - Already Done!)
    ```bash
    npm install -g vercel
    vercel --prod
    ```
+   - ✅ **Current Status**: Live at [calqulatevt.vercel.app](https://calqulatevt.vercel.app/login)
+   - ✅ **Auto-deployment**: Updates automatically from GitHub
+   - ✅ **Custom Domain**: Ready for custom domain setup
+
+3. **Deploy to Netlify** (Alternative)
+   - Connect your GitHub repository
+   - Set build command: `npm run build`
+   - Set publish directory: `build`
 
 ### **Backend Deployment (Heroku/Railway)**
 
@@ -647,20 +712,35 @@ SOFTWARE.
 ## 📞 Support & Contact
 
 ### **Get Help**
-- 📧 Email: support@vahanbazar.com
-- 💬 Discord: [Join our community](https://discord.gg/vahanbazar)
-- 📖 Documentation: [docs.vahanbazar.com](https://docs.vahanbazar.com)
-- 🐛 Issues: [GitHub Issues](https://github.com/Venkatatejadegala/vahan-bazar/issues)
+- 🌐 **Live Demo**: [https://calqulatevt.vercel.app/login](https://calqulatevt.vercel.app/login)
+- 📧 **Email**: support@vahanbazar.com
+- 💬 **Discord**: [Join our community](https://discord.gg/vahanbazar)
+- 📖 **Documentation**: [docs.vahanbazar.com](https://docs.vahanbazar.com)
+- 🐛 **Issues**: [GitHub Issues](https://github.com/Venkatatejadegala/vahan-bazar/issues)
+- ⭐ **Star the Repo**: Show your support!
 
 ### **Stay Updated**
-- ⭐ Star this repository
-- 👀 Watch for updates
-- 🍴 Fork for your own use
-- 📢 Share with others
+- ⭐ **Star this repository** - Help us reach more developers!
+- 👀 **Watch for updates** - Get notified of new features
+- 🍴 **Fork for your own use** - Customize for your needs
+- 📢 **Share with others** - Spread the word about Vahan Bazar
+- 🚀 **Try the Live Demo** - [https://calqulatevt.vercel.app/login](https://calqulatevt.vercel.app/login)
 
 ---
 
+## 🎯 Ready to Explore?
+
 <div align="center">
+
+### 🚀 **Try the Live Demo Now!**
+
+[![Live Demo Button](https://img.shields.io/badge/🚀%20Try%20Live%20Demo-https://calqulatevt.vercel.app/login-brightgreen?style=for-the-badge&logo=vercel)](https://calqulatevt.vercel.app/login)
+
+**🔑 Demo Credentials:**
+- **User Account**: `user@demo.com` / `user123`
+- **Admin Account**: `admin@demo.com` / `admin123`
+
+---
 
 **⭐ If you found this project helpful, please give it a star! ⭐**
 
